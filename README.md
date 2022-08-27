@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8" />
         <title>appication</title>
         <style>
-            .b-gray{background-color:#D9D9D9;padding-top:10px;padding-bottom:10px;}
+            .b-gray{background-color:#D9D9D9;padding-top:2px;padding-bottom:2px;}
             .b-gray1{margin-top:0px;margin-bottom:0px}
             .b-beige{background-color:beige;margin-top:0px;margin-bottom:0px}
         </style>
